@@ -1,0 +1,35 @@
+.tit{color:white;}
+.change{cursor:color: #008CBA;color: white;}
+.new{width:200px;height: 100px;}
+.logo{justify-content: center;}
+.hed:hover{color:#04d2c8;}
+.hed{color: black;}
+.calls:hover{color:#04d2c8;;}
+.calls{color: black;}
+.fa-search:hover{color:#04d2c8;}
+.fa-shopping-bag:hover{color: #04d2c8;}
+.fa-bars:hover{color:#04d2c8;}
+.btn-info{color:#04d2c8;}
+.text-dark:hover{color:#04d2c8;}
+.carousel-inner{width:640px;height:500px;}
+.mb-5{float:left;width:500px;position:absolute;display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100px;
+  
+margin-right: auto;margin-left: auto;margin-bottom: auto;}
+
+.btn{color:#04d2c8; }
+.message{position:relative;}
+.prof:hover{color:#04d2c8;}
+.prof{color: grey;}
+.lgn{height: 50px;}
+.mail{border:none;border-bottom:solid 1px rgb(0,0,0,.1);outline: 0;}
+.fa-comment{color: grey;}
+.fa-phone:hover{color:#04d2c8;}
+.fa-clock-o:hover{color:#04d2c8;}
+.events:hover{color:#04d2c8;}
+.the:hover{color:#04d2c8;}
+.the{color: grey}
+.tex{color: grey;}
+.ans:hover{color:#04d2c8;}
